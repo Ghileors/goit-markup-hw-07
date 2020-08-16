@@ -314,7 +314,7 @@ body {
 
 /* DESKTOP */
 
-@media screen and (min-width: 942px) and (max-width: 1440px) {
+@media screen and (min-width: 942px) and (max-width: 1700px) {
   .header-container {
     display: flex;
     justify-content: space-between;
@@ -334,7 +334,7 @@ body {
   }
 
   .hero {
-    max-width: 1440px;
+    max-width: 1700px;
     min-height: 700px;
     position: relative;
     margin-left: auto;
